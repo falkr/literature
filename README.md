@@ -1,3 +1,3 @@
-# Design Science Seminar
+# Tips for Literature Search
 
-[Design Science Seminar](https://falkr.github.io/designscience/index.html)
+[Tips for Literature Search](https://falkr.github.io/literature/)
